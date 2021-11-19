@@ -1,0 +1,9 @@
+{
+    "DBCONNECT":"mongodb://betmony_admin:Kiranku123%24@139.99.149.18:27731/betmony?serverSelectionTimeoutMS=5000&connectTimeoutMS=10000&authSource=betmony&authMechanism=SCRAM-SHA-256",
+    "TESTDB":"mongodb://localhost:27017/prokasino9",
+    "ServerPort" : 1998,
+    "host": "139.99.149.18",
+    "port": 6379,
+    "auth_pass" : "Kiranku123$",
+    "sportdb":0
+}

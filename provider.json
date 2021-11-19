@@ -1,0 +1,3 @@
+{
+  "winnerpoker":{"authenticate":"/authenticate","debit":"/debit","credit":"/credit","updateSession":"/updateSession","URL":"https://pokergrid.io/poker/init?","operator":"igamez-0"}
+}
