@@ -1,8 +1,8 @@
 {
-    "DBCONNECT":"mongodb://stayboat_admin:Kiranku123%24@51.79.157.193:27731/stayboat?serverSelectionTimeoutMS=5000&connectTimeoutMS=10000&authSource=stayboat&authMechanism=SCRAM-SHA-256",
+    "DBCONNECT":"mongodb://winexch_admin:Kiranku123%24@167.114.175.29:27731/winexch?serverSelectionTimeoutMS=5000&connectTimeoutMS=10000&authSource=winexch&authMechanism=SCRAM-SHA-256",
     "TESTDB":"mongodb://localhost:27017/prokasino9",
-    "ServerPort" : 2021,
-    "host": "51.79.157.193",
+    "ServerPort" : 1995,
+    "host": "167.114.175.29",
     "port": 6379,
     "auth_pass" : "Kiranku123$",
     "sportdb":0
