@@ -1,8 +1,8 @@
 {
-    "DBCONNECT":"mongodb://winexch_admin:Kiranku123%24@167.114.175.29:27731/winexch?serverSelectionTimeoutMS=5000&connectTimeoutMS=10000&authSource=winexch&authMechanism=SCRAM-SHA-256",
+    "DBCONNECT":"mongodb://kasino9_admin:Kiranku123%24@51.79.167.211:27731/kasino9?serverSelectionTimeoutMS=5000&connectTimeoutMS=10000&authSource=kasino9&authMechanism=SCRAM-SHA-256",
     "TESTDB":"mongodb://localhost:27017/prokasino9",
     "ServerPort" : 1995,
-    "host": "167.114.175.29",
+    "host": "51.79.167.211",
     "port": 6379,
     "auth_pass" : "Kiranku123$",
     "sportdb":0
