@@ -1,8 +1,8 @@
 {
-    "DBCONNECT":"mongodb://kasino9_admin:Kiranku123%24@51.79.167.211:27731/kasino9?serverSelectionTimeoutMS=5000&connectTimeoutMS=10000&authSource=kasino9&authMechanism=SCRAM-SHA-256",
+    "DBCONNECT":"mongodb://kheloyar_admin:Kiranku123%24@65.21.180.43:27731/kheloyar?serverSelectionTimeoutMS=5000&connectTimeoutMS=10000&authSource=admin&authMechanism=SCRAM-SHA-256",
     "TESTDB":"mongodb://localhost:27017/prokasino9",
     "ServerPort" : 1995,
-    "host": "51.79.167.211",
+    "host": "65.21.180.43",
     "port": 6379,
     "auth_pass" : "Kiranku123$",
     "sportdb":0
