@@ -1,8 +1,8 @@
 {
-    "DBCONNECT":"mongodb://onepari_admin:Kiranku123%24@65.21.49.105:27731/onepari?serverSelectionTimeoutMS=5000&connectTimeoutMS=10000&authSource=onepari&authMechanism=SCRAM-SHA-256",
+    "DBCONNECT":"mongodb://wybet_admin:Kiranku123%24@192.99.244.182:27017/admin?connectTimeoutMS=10000&authSource=admin&authMechanism=SCRAM-SHA-1",
     "TESTDB":"mongodb://localhost:27017/prokasino9",
-    "ServerPort" : 1998,
-    "host": "65.21.49.105",
+    "ServerPort" : 1995,
+    "host": "192.99.244.182",
     "port": 6379,
     "auth_pass" : "Kiranku123$",
     "sportdb":0

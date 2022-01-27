@@ -1,13 +1,13 @@
-var cluster = require('cluster');
-var numCPUs = require('os').cpus().length;
+// var cluster = require('cluster');
+// var numCPUs = require('os').cpus().length;
 
-if (cluster.isMaster) {
-  console.log(numCPUs)
-    for (var i = 0; i < numCPUs; i++) {
-        // Create a worker
-        cluster.fork();
-    }
-} else {
+// if (cluster.isMaster) {
+//   console.log(numCPUs)
+//     for (var i = 0; i < numCPUs; i++) {
+//         // Create a worker
+//         cluster.fork();
+//     }
+// } else {
   
   const express = require('express');
   const mongoose = require('mongoose');
@@ -53,5 +53,5 @@ if (cluster.isMaster) {
     err => { console.log('Can not connect to the database'+ err)}
   );
 
-}
+// }
 
