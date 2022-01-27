@@ -1,5 +1,5 @@
 {
-    "DBCONNECT":"mongodb://wybet_admin:Kiranku123%24@192.99.244.182:27017/wybet?connectTimeoutMS=10000&authSource=admin&authMechanism=SCRAM-SHA-1",
+    "DBCONNECT":"mongodb://wybet_admin:Kiranku123%24@192.99.244.182:27731/wybet?connectTimeoutMS=10000&authSource=admin&authMechanism=SCRAM-SHA-1",
     "TESTDB":"mongodb://localhost:27017/prokasino9",
     "ServerPort" : 1995,
     "host": "192.99.244.182",
